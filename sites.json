@@ -4245,6 +4245,7 @@
     {
         "name": "VK/ВКонтакте",
         "url": "http://vk.com/settings?act=deactivate",
+        "notes": "Username: +8613093755469 Password: vk.com",
         "difficulty": "easy",
         "domains": [
             "vk.com"
